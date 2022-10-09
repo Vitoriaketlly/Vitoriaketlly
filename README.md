@@ -1,10 +1,10 @@
 - 👋 Olá, me chamo @Vitoriaketlly.
 
-- 👀 Fale comigo através de meu email: vitoriaketlly329@gmail.com.
+- 📥 Fale comigo através de meu email: vitoriaketlly329@gmail.com.
 
-- 🌱 Você nunca sabe que resultados virão da sua ação.....
+- 💫 Você nunca sabe que resultados virão da sua ação.....
 
-- 💞️ Intagram: @v.noggueira.
+- 📱 Intagram: @v.noggueira.
 
 
 <!---
