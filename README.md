@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Vitoriaketlly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Vitoriaketlly.
+
+- 👀 Fale comigo através de meu email: vitoriaketlly329@gmail.com.
+
+- 🌱 Você nunca sabe que resultados virão da sua ação.....
+
+- 💞️ Intagram: @v.noggueira.
+
 
 <!---
 Vitoriaketlly/Vitoriaketlly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
