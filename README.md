@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vitoriaketlly.
+- 👋 Olá, me chamo @Vitoriaketlly.
 
 - 👀 Fale comigo através de meu email: vitoriaketlly329@gmail.com.
 
